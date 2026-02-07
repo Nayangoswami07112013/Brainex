@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Brainex Quiz</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h2 id="question-text"></h2>
+    <div id="options-container"></div>
+
+    <!-- Bookmark / Save progress button -->
+    <button id="bookmark-btn" class="start-btn" style="background: #00ccff; margin-top: 15px;">
+        Bookmark / Save Progress
+    </button>
+</div>
+
+<!-- Pass questions from Flask -->
+<script>
+let questions = {{ questions|tojson|safe }};
+</script>
+
+<!-- External JS -->
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+</html>

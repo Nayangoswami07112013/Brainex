@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Brainex Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="container" style="text-align:center; margin-top:50px;">
+    {% if score == questions|length %}
+        <h2>Congratulations! You Won! 🏆</h2>
+        <img src="{{ url_for('static', filename='images/trophy.png') }}" class="trophy-img" width="200">
+    {% else %}
+        <h2>Quiz Over 😢</h2>
+        <h3>Your Score: <span id="final-score">{{ score }}</span></h3>
+    {% endif %}
+    <br>
+    <a href="{{ url_for('index') }}"><button class="start-btn">Go to Home</button></a>
+</div>
+
+</body>
+</html>

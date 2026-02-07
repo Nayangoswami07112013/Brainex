@@ -1,0 +1,158 @@
+/* RESET */
+* {
+    box-sizing: border-box;
+}
+
+/* BODY */
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: linear-gradient(135deg, #1d2671, #c33764);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+/* MAIN CONTAINER */
+.container {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.25);
+    padding: 40px 30px;
+    border-radius: 20px;
+    width: 90%;
+    max-width: 420px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    opacity: 0;
+    animation: fadeZoom 1.5s ease forwards;
+}
+
+/* TITLE */
+.title {
+    font-size: 2.8rem;
+    margin-bottom: 10px;
+    animation: slideDown 1.2s ease forwards;
+}
+
+/* SUBTITLE */
+.subtitle {
+    font-size: 1.1rem;
+    opacity: 0.85;
+    margin-bottom: 30px;
+}
+
+/* BUTTONS */
+.start-btn {
+    width: 100%;
+    padding: 15px;
+    margin: 8px 0;
+    font-size: 18px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    background: #ffcc00;
+    color: #000;
+    font-weight: bold;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s;
+}
+
+.start-btn:hover {
+    transform: translateY(-3px) scale(1.03);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.4);
+    background: #ffd633;
+}
+
+.start-btn:active {
+    transform: scale(0.98);
+}
+
+/* QUESTION TEXT */
+h2 {
+    margin-bottom: 20px;
+    font-size: 1.3rem;
+}
+
+/* ANIMATIONS */
+@keyframes fadeZoom {
+    from { opacity: 0; transform: scale(0.6); }
+    to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes slideDown {
+    from { transform: translateY(-50px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+/* General container */
+.container {
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Buttons */
+.start-btn {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    transition: transform 0.2s, background 0.2s;
+}
+
+/* Hover animation */
+.start-btn:hover {
+    transform: scale(1.1);
+    background-color: #ffcc00;
+    color: #000;
+    cursor: pointer;
+}
+
+/* ===== Fade in animation for questions ===== */
+@keyframes fadeIn {
+    from {opacity: 0; transform: translateY(20px);}
+    to {opacity: 1; transform: translateY(0);}
+}
+
+#question-text {
+    animation: fadeIn 0.5s ease;
+}
+
+/* ===== Trophy animation ===== */
+@keyframes trophyBounce {
+    0% { transform: scale(0.5) rotate(0deg); }
+    50% { transform: scale(1.2) rotate(15deg); }
+    70% { transform: scale(1) rotate(-10deg); }
+    100% { transform: scale(1) rotate(0deg); }
+}
+
+.trophy-img {
+    animation: trophyBounce 1.5s ease forwards;
+}
+
+/* ===== Score animation ===== */
+@keyframes scoreCount {
+    from {opacity: 0; transform: translateY(-20px);}
+    to {opacity: 1; transform: translateY(0);}
+}
+
+#final-score {
+    animation: scoreCount 1s ease;
+}
+
+/* Wrong answer shake effect */
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-10px); }
+    50% { transform: translateX(10px); }
+    75% { transform: translateX(-10px); }
+    100% { transform: translateX(0); }
+}
+
+.container h2 {
+    animation: shake 0.5s;
+}
