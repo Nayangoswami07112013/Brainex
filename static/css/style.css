@@ -183,6 +183,47 @@ h2 {
     }
 }
 
+/* ===== FIX SMALL "GO TO HOME" BUTTON ON PHONE ===== */
+
+.result-btn,
+.home-btn {
+    font-size: 20px;
+    padding: 14px 28px;
+}
+
+/* 📱 Mobile */
+@media (max-width: 600px) {
+    .result-btn,
+    .home-btn {
+        width: 90%;
+        display: block;
+        margin: 30px auto;
+        font-size: 26px;
+        padding: 20px 0;
+        border-radius: 12px;
+    }
+}/* ===== FIX SMALL "GO TO HOME" BUTTON ON PHONE ===== */
+
+.result-btn,
+.home-btn {
+    font-size: 20px;
+    padding: 14px 28px;
+}
+
+/* 📱 Mobile */
+@media (max-width: 600px) {
+    .result-btn,
+    .home-btn {
+        width: 90%;
+        display: block;
+        margin: 30px auto;
+        font-size: 26px;
+        padding: 20px 0;
+        border-radius: 12px;
+    }
+}
+
+
 
 
 
