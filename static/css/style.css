@@ -164,3 +164,26 @@ h2 {
   display: block;
   margin: auto;
 }
+
+.question-text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+/* Mobile specific */
+@media (max-width: 600px) {
+    .question-text {
+        font-size: 28px;
+    }
+
+    .option {
+        font-size: 22px;
+        padding: 12px;
+    }
+}
+
+.option {
+    font-size: 18px;
+}
+
