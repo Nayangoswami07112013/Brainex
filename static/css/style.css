@@ -155,4 +155,12 @@ h2 {
 
 .container h2 {
     animation: shake 0.5s;
+
+}
+
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
 }
