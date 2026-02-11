@@ -1538,7 +1538,237 @@ questions = [
     "options": ["14", "20", "18", "24"],
     "answer": "14"
 },
+# 7️⃣ Maths (6–20)
 
+{
+    "question": "What is the value of 7 × 8?",
+    "options": ["54", "56", "64", "48"],
+    "answer": "56"
+},
+{
+    "question": "What is the square of 15?",
+    "options": ["225", "215", "235", "205"],
+    "answer": "225"
+},
+{
+    "question": "What is 144 ÷ 12?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12"
+},
+{
+    "question": "What is the cube of 5?",
+    "options": ["25", "100", "125", "150"],
+    "answer": "125"
+},
+{
+    "question": "What is the value of 2πr when r = 7? (Take π = 22/7)",
+    "options": ["22", "44", "14", "28"],
+    "answer": "44"
+},
+{
+    "question": "What is the HCF of 24 and 36?",
+    "options": ["6", "12", "18", "24"],
+    "answer": "12"
+},
+{
+    "question": "What is the LCM of 6 and 8?",
+    "options": ["24", "12", "18", "48"],
+    "answer": "24"
+},
+{
+    "question": "What is 3/4 + 1/4?",
+    "options": ["1", "2", "3/4", "1/2"],
+    "answer": "1"
+},
+{
+    "question": "What is 20% of 200?",
+    "options": ["20", "30", "40", "50"],
+    "answer": "40"
+},
+{
+    "question": "What is the perimeter of a square with side 9 cm?",
+    "options": ["36 cm", "18 cm", "27 cm", "81 cm"],
+    "answer": "36 cm"
+},
+{
+    "question": "Solve: 45 + 36",
+    "options": ["71", "81", "91", "76"],
+    "answer": "81"
+},
+{
+    "question": "What is the value of 9²?",
+    "options": ["18", "72", "81", "90"],
+    "answer": "81"
+},
+{
+    "question": "What is the mean of 4, 6, 8?",
+    "options": ["6", "5", "7", "4"],
+    "answer": "6"
+},
+{
+    "question": "What is 1000 − 457?",
+    "options": ["543", "553", "533", "563"],
+    "answer": "543"
+},
+{
+    "question": "If a triangle has angles 60°, 60°, 60°, what type of triangle is it?",
+    "options": ["Scalene", "Right-angled", "Equilateral", "Isosceles"],
+    "answer": "Equilateral"
+},
+# 7️⃣ Maths (21–35)
+
+{
+    "question": "What is the value of 11 × 12?",
+    "options": ["132", "122", "142", "152"],
+    "answer": "132"
+},
+{
+    "question": "The perimeter of a rectangle is 50 cm. If length = 15 cm, what is the width?",
+    "options": ["10 cm", "12 cm", "8 cm", "20 cm"],
+    "answer": "10 cm"
+},
+{
+    "question": "What is 25% of 400?",
+    "options": ["50", "75", "100", "125"],
+    "answer": "100"
+},
+{
+    "question": "The sum of angles in a quadrilateral is?",
+    "options": ["360°", "180°", "270°", "90°"],
+    "answer": "360°"
+},
+{
+    "question": "What is the square root of 196?",
+    "options": ["12", "14", "16", "18"],
+    "answer": "14"
+},
+{
+    "question": "If a = 5 and b = 3, what is a² + b²?",
+    "options": ["34", "25", "19", "30"],
+    "answer": "34"
+},
+{
+    "question": "What is the next prime number after 17?",
+    "options": ["19", "21", "23", "20"],
+    "answer": "19"
+},
+{
+    "question": "A cube has side 4 cm. What is its volume?",
+    "options": ["64 cm³", "16 cm³", "32 cm³", "48 cm³"],
+    "answer": "64 cm³"
+},
+{
+    "question": "What is 7² + 24²?",
+    "options": ["625", "576", "625", "625"],
+    "answer": "625"
+},
+{
+    "question": "If 5x = 20, what is the value of x?",
+    "options": ["2", "4", "5", "3"],
+    "answer": "4"
+},
+{
+    "question": "A triangle has sides 3 cm, 4 cm, 5 cm. Its type is?",
+    "options": ["Right-angled", "Equilateral", "Isosceles", "Scalene"],
+    "answer": "Right-angled"
+},
+{
+    "question": "What is the decimal equivalent of 3/5?",
+    "options": ["0.6", "0.5", "0.75", "0.8"],
+    "answer": "0.6"
+},
+{
+    "question": "If the cost of 7 pencils is ₹35, what is the cost of 1 pencil?",
+    "options": ["₹5", "₹7", "₹4", "₹6"],
+    "answer": "₹5"
+},
+{
+    "question": "What is the sum of first 10 natural numbers?",
+    "options": ["55", "50", "45", "60"],
+    "answer": "55"
+},
+{
+    "question": "What is 15 × 12?",
+    "options": ["180", "175", "160", "165"],
+    "answer": "180"
+},
+# 7️⃣ Maths (36–50)
+
+{
+    "question": "What is 18 × 7?",
+    "options": ["126", "124", "128", "130"],
+    "answer": "126"
+},
+{
+    "question": "What is the square of 18?",
+    "options": ["324", "314", "334", "344"],
+    "answer": "324"
+},
+{
+    "question": "If a rectangle has length 12 cm and width 8 cm, what is its area?",
+    "options": ["96 cm²", "100 cm²", "90 cm²", "108 cm²"],
+    "answer": "96 cm²"
+},
+{
+    "question": "What is the cube root of 512?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+},
+{
+    "question": "The sum of angles in a triangle is?",
+    "options": ["180°", "360°", "90°", "270°"],
+    "answer": "180°"
+},
+{
+    "question": "What is 7/8 as a decimal?",
+    "options": ["0.875", "0.85", "0.8", "0.78"],
+    "answer": "0.875"
+},
+{
+    "question": "If 3x + 7 = 16, what is x?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+},
+{
+    "question": "What is the perimeter of an equilateral triangle with side 9 cm?",
+    "options": ["27 cm", "18 cm", "24 cm", "30 cm"],
+    "answer": "27 cm"
+},
+{
+    "question": "What is the average of 12, 15, 18?",
+    "options": ["15", "14", "16", "13"],
+    "answer": "15"
+},
+{
+    "question": "What is 2/5 + 3/10?",
+    "options": ["7/10", "1/2", "4/5", "3/5"],
+    "answer": "7/10"
+},
+{
+    "question": "A shop sold 120 pencils in a day. If 1/3 were blue, how many were blue?",
+    "options": ["40", "30", "50", "60"],
+    "answer": "40"
+},
+{
+    "question": "What is the value of 5² + 12²?",
+    "options": ["169", "144", "121", "150"],
+    "answer": "169"
+},
+{
+    "question": "If a car travels 60 km in 1 hour, how far will it travel in 4 hours?",
+    "options": ["240 km", "200 km", "180 km", "220 km"],
+    "answer": "240 km"
+},
+{
+    "question": "What is the sum of angles in a pentagon?",
+    "options": ["540°", "360°", "450°", "720°"],
+    "answer": "540°"
+},
+{
+    "question": "What is 3 × 9 + 6 ÷ 2?",
+    "options": ["30", "33", "28", "36"],
+    "answer": "30"
+},
 # 8️⃣ Science
 {
     "question": "Water boils at what temperature (°C)?",
@@ -1565,7 +1795,237 @@ questions = [
     "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"],
     "answer": "Oxygen"
 },
+# 8️⃣ Science (6–20)
 
+{
+    "question": "What is the chemical symbol for Sodium?",
+    "options": ["Na", "S", "So", "N"],
+    "answer": "Na"
+},
+{
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Mars"
+},
+{
+    "question": "What gas do plants release during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+},
+{
+    "question": "What is the main gas found in the air we breathe?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Nitrogen"
+},
+{
+    "question": "Which organ in human body pumps blood?",
+    "options": ["Heart", "Lungs", "Liver", "Kidneys"],
+    "answer": "Heart"
+},
+{
+    "question": "Which is the hardest natural substance on Earth?",
+    "options": ["Diamond", "Gold", "Silver", "Iron"],
+    "answer": "Diamond"
+},
+{
+    "question": "Which part of the plant absorbs water from soil?",
+    "options": ["Roots", "Stem", "Leaves", "Flowers"],
+    "answer": "Roots"
+},
+{
+    "question": "Which is the largest organ in the human body?",
+    "options": ["Skin", "Liver", "Lungs", "Heart"],
+    "answer": "Skin"
+},
+{
+    "question": "What is H₂O commonly known as?",
+    "options": ["Water", "Hydrogen", "Oxygen", "Salt"],
+    "answer": "Water"
+},
+{
+    "question": "Which vitamin is produced when sunlight falls on skin?",
+    "options": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin B12"],
+    "answer": "Vitamin D"
+},
+{
+    "question": "What is the unit of electric current?",
+    "options": ["Ampere", "Volt", "Ohm", "Watt"],
+    "answer": "Ampere"
+},
+{
+    "question": "Which planet has the most moons?",
+    "options": ["Saturn", "Jupiter", "Mars", "Earth"],
+    "answer": "Saturn"
+},
+{
+    "question": "What is the center of an atom called?",
+    "options": ["Nucleus", "Electron", "Proton", "Neutron"],
+    "answer": "Nucleus"
+},
+{
+    "question": "Which gas is essential for respiration in humans?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+},
+{
+    "question": "Which organ filters blood in human body?",
+    "options": ["Kidneys", "Liver", "Lungs", "Heart"],
+    "answer": "Kidneys"
+},
+# 8️⃣ Science (21–35)
+
+{
+    "question": "Which planet is known for its rings?",
+    "options": ["Saturn", "Jupiter", "Mars", "Venus"],
+    "answer": "Saturn"
+},
+{
+    "question": "Which part of the eye controls the amount of light entering it?",
+    "options": ["Pupil", "Iris", "Cornea", "Lens"],
+    "answer": "Iris"
+},
+{
+    "question": "What is the chemical symbol for Iron?",
+    "options": ["Fe", "Ir", "In", "I"],
+    "answer": "Fe"
+},
+{
+    "question": "Which blood cells help in fighting infections?",
+    "options": ["White Blood Cells", "Red Blood Cells", "Platelets", "Plasma"],
+    "answer": "White Blood Cells"
+},
+{
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+},
+{
+    "question": "Which organ produces insulin?",
+    "options": ["Pancreas", "Liver", "Kidneys", "Heart"],
+    "answer": "Pancreas"
+},
+{
+    "question": "What is the chemical formula of common salt?",
+    "options": ["NaCl", "KCl", "Na2SO4", "Na2CO3"],
+    "answer": "NaCl"
+},
+{
+    "question": "Which gas is used in balloons to make them float?",
+    "options": ["Helium", "Oxygen", "Hydrogen", "Nitrogen"],
+    "answer": "Helium"
+},
+{
+    "question": "Which part of the plant conducts photosynthesis?",
+    "options": ["Leaves", "Roots", "Stem", "Flower"],
+    "answer": "Leaves"
+},
+{
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["100°C", "90°C", "95°C", "105°C"],
+    "answer": "100°C"
+},
+{
+    "question": "Which part of human brain controls balance?",
+    "options": ["Cerebellum", "Cerebrum", "Medulla", "Hypothalamus"],
+    "answer": "Cerebellum"
+},
+{
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+},
+{
+    "question": "What is the process by which plants make their food?",
+    "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+    "answer": "Photosynthesis"
+},
+{
+    "question": "Which planet is called the Morning Star or Evening Star?",
+    "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+    "answer": "Venus"
+},
+{
+    "question": "Which is the smallest bone in human body?",
+    "options": ["Stirrup (Ear)", "Femur", "Tibia", "Humerus"],
+    "answer": "Stirrup (Ear)"
+},
+# 8️⃣ Science (36–50)
+
+{
+    "question": "Which organ stores bile produced by the liver?",
+    "options": ["Gallbladder", "Pancreas", "Kidney", "Stomach"],
+    "answer": "Gallbladder"
+},
+{
+    "question": "Which is the fastest land animal?",
+    "options": ["Cheetah", "Lion", "Tiger", "Leopard"],
+    "answer": "Cheetah"
+},
+{
+    "question": "Which planet is called the Blue Planet?",
+    "options": ["Earth", "Neptune", "Uranus", "Saturn"],
+    "answer": "Earth"
+},
+{
+    "question": "Which gas do humans exhale?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "answer": "Carbon Dioxide"
+},
+{
+    "question": "Which part of the human body contains the smallest bones?",
+    "options": ["Ear", "Hand", "Foot", "Nose"],
+    "answer": "Ear"
+},
+{
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Iron", "Aluminium", "Lead"],
+    "answer": "Mercury"
+},
+{
+    "question": "Which is the largest planet in our Solar System?",
+    "options": ["Jupiter", "Saturn", "Earth", "Neptune"],
+    "answer": "Jupiter"
+},
+{
+    "question": "Which vitamin is found in citrus fruits?",
+    "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin B12"],
+    "answer": "Vitamin C"
+},
+{
+    "question": "What is the main source of energy for Earth?",
+    "options": ["Sun", "Moon", "Stars", "Wind"],
+    "answer": "Sun"
+},
+{
+    "question": "Which is the largest organ inside the human body?",
+    "options": ["Liver", "Heart", "Lungs", "Kidney"],
+    "answer": "Liver"
+},
+{
+    "question": "Which part of the blood carries oxygen?",
+    "options": ["Red Blood Cells", "White Blood Cells", "Plasma", "Platelets"],
+    "answer": "Red Blood Cells"
+},
+{
+    "question": "Which planet has a Great Red Spot?",
+    "options": ["Jupiter", "Saturn", "Mars", "Venus"],
+    "answer": "Jupiter"
+},
+{
+    "question": "What is the main gas present in the Earth's atmosphere?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Nitrogen"
+},
+{
+    "question": "Which is the largest organelle in a cell?",
+    "options": ["Nucleus", "Mitochondria", "Chloroplast", "Ribosome"],
+    "answer": "Nucleus"
+},
+{
+    "question": "Which planet spins on its side?",
+    "options": ["Uranus", "Mars", "Saturn", "Neptune"],
+    "answer": "Uranus"
+},
 # 9️⃣ SST (Social Science)
 {
     "question": "Who was the first President of India?",
@@ -1591,6 +2051,237 @@ questions = [
     "question": "The French Revolution started in which year?",
     "options": ["1789", "1776", "1799", "1804"],
     "answer": "1789"
+},
+# 9️⃣ SST (Social Science) 6–20
+
+{
+    "question": "Which river is known as the 'Sorrow of Bihar'?",
+    "options": ["Kosi", "Ganga", "Yamuna", "Brahmaputra"],
+    "answer": "Kosi"
+},
+{
+    "question": "Who was the first Prime Minister of India?",
+    "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Indira Gandhi", "Rajendra Prasad"],
+    "answer": "Jawaharlal Nehru"
+},
+{
+    "question": "The Iron Pillar is located in which city?",
+    "options": ["Delhi", "Agra", "Jaipur", "Varanasi"],
+    "answer": "Delhi"
+},
+{
+    "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+    "options": ["Punjab", "Haryana", "Rajasthan", "Uttar Pradesh"],
+    "answer": "Punjab"
+},
+{
+    "question": "The Parliament of India is located in which city?",
+    "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "answer": "New Delhi"
+},
+{
+    "question": "The Gateway of India is located in which city?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "answer": "Mumbai"
+},
+{
+    "question": "Which Indian state has the largest area?",
+    "options": ["Rajasthan", "Maharashtra", "Madhya Pradesh", "Uttar Pradesh"],
+    "answer": "Rajasthan"
+},
+{
+    "question": "Who wrote the Indian National Anthem?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Subhash Chandra Bose", "Sarojini Naidu"],
+    "answer": "Rabindranath Tagore"
+},
+{
+    "question": "Which freedom fighter gave the slogan 'Do or Die'?",
+    "options": ["Bhagat Singh", "Subhash Chandra Bose", "Mahatma Gandhi", "Bal Gangadhar Tilak"],
+    "answer": "Mahatma Gandhi"
+},
+{
+    "question": "The Ajanta Caves are located in which state?",
+    "options": ["Maharashtra", "Gujarat", "Rajasthan", "Madhya Pradesh"],
+    "answer": "Maharashtra"
+},
+{
+    "question": "Which city is known as the 'Silicon Valley of India'?",
+    "options": ["Bangalore", "Hyderabad", "Pune", "Chennai"],
+    "answer": "Bangalore"
+},
+{
+    "question": "Which Mughal emperor built the Taj Mahal?",
+    "options": ["Shah Jahan", "Akbar", "Aurangzeb", "Babur"],
+    "answer": "Shah Jahan"
+},
+{
+    "question": "The Sun Temple is located in which state?",
+    "options": ["Odisha", "Rajasthan", "Gujarat", "Tamil Nadu"],
+    "answer": "Odisha"
+},
+{
+    "question": "Who was the founder of the Maurya Empire?",
+    "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Harsha"],
+    "answer": "Chandragupta Maurya"
+},
+{
+    "question": "The Indian National Congress was founded in which year?",
+    "options": ["1885", "1905", "1920", "1919"],
+    "answer": "1885"
+},
+# 9️⃣ SST (Social Science) 21–35
+
+{
+    "question": "Which freedom fighter is known as the 'Netaji'?",
+    "options": ["Subhash Chandra Bose", "Mahatma Gandhi", "Bhagat Singh", "Jawaharlal Nehru"],
+    "answer": "Subhash Chandra Bose"
+},
+{
+    "question": "Which Indian state is famous for its tea gardens in Darjeeling?",
+    "options": ["West Bengal", "Assam", "Sikkim", "Kerala"],
+    "answer": "West Bengal"
+},
+{
+    "question": "Who was the last Mughal emperor?",
+    "options": ["Bahadur Shah II", "Aurangzeb", "Akbar II", "Shah Jahan"],
+    "answer": "Bahadur Shah II"
+},
+{
+    "question": "Which Indian state is known as the 'Land of Rising Sun'?",
+    "options": ["Arunachal Pradesh", "Nagaland", "Assam", "Sikkim"],
+    "answer": "Arunachal Pradesh"
+},
+{
+    "question": "The Qutub Minar is located in which city?",
+    "options": ["Delhi", "Agra", "Jaipur", "Hyderabad"],
+    "answer": "Delhi"
+},
+{
+    "question": "Who was the first woman President of India?",
+    "options": ["Pratibha Patil", "Sarojini Naidu", "Indira Gandhi", "Sonia Gandhi"],
+    "answer": "Pratibha Patil"
+},
+{
+    "question": "Which river is called the 'Dakshin Ganga'?",
+    "options": ["Godavari", "Krishna", "Kaveri", "Mahanadi"],
+    "answer": "Godavari"
+},
+{
+    "question": "Which Indian state is famous for the Konark Sun Temple?",
+    "options": ["Odisha", "Tamil Nadu", "Rajasthan", "Madhya Pradesh"],
+    "answer": "Odisha"
+},
+{
+    "question": "Which Indian leader gave the slogan 'Quit India'?",
+    "options": ["Mahatma Gandhi", "Subhash Chandra Bose", "Bal Gangadhar Tilak", "Bhagat Singh"],
+    "answer": "Mahatma Gandhi"
+},
+{
+    "question": "Which city is known as the 'Pink City'?",
+    "options": ["Jaipur", "Udaipur", "Jodhpur", "Bikaner"],
+    "answer": "Jaipur"
+},
+{
+    "question": "Who was the first Chief Minister of Tamil Nadu?",
+    "options": ["C. Rajagopalachari", "K. Kamaraj", "M. Karunanidhi", "J. Jayalalithaa"],
+    "answer": "C. Rajagopalachari"
+},
+{
+    "question": "Which Indian state is famous for its backwaters?",
+    "options": ["Kerala", "Goa", "Karnataka", "Tamil Nadu"],
+    "answer": "Kerala"
+},
+{
+    "question": "Which battle marked the end of the Mughal Empire in India?",
+    "options": ["Battle of Plassey", "Battle of Panipat", "Battle of Buxar", "Battle of Haldighati"],
+    "answer": "Battle of Panipat"
+},
+{
+    "question": "Who wrote the book 'Discovery of India'?",
+    "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Rabindranath Tagore", "Subhash Chandra Bose"],
+    "answer": "Jawaharlal Nehru"
+},
+{
+    "question": "Which state is known as the 'Spice Garden of India'?",
+    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Goa"],
+    "answer": "Kerala"
+},
+# 9️⃣ SST (Social Science) 36–50
+
+{
+    "question": "Which Indian state has the longest coastline?",
+    "options": ["Gujarat", "Tamil Nadu", "Andhra Pradesh", "Kerala"],
+    "answer": "Gujarat"
+},
+{
+    "question": "Which ancient university was located in Nalanda?",
+    "options": ["Bihar", "Takshashila", "Nalanda", "Vikramashila"],
+    "answer": "Nalanda"
+},
+{
+    "question": "Who was the first Governor-General of independent India?",
+    "options": ["Lord Mountbatten", "C. Rajagopalachari", "Lord Wavell", "Rajendra Prasad"],
+    "answer": "C. Rajagopalachari"
+},
+{
+    "question": "Which state is called the 'Land of Five Rivers'?",
+    "options": ["Punjab", "Haryana", "Uttar Pradesh", "Rajasthan"],
+    "answer": "Punjab"
+},
+{
+    "question": "Which Indian monument is a UNESCO World Heritage site?",
+    "options": ["Qutub Minar", "Gateway of India", "India Gate", "Charminar"],
+    "answer": "Qutub Minar"
+},
+{
+    "question": "Who was the first woman to become the Prime Minister of India?",
+    "options": ["Indira Gandhi", "Pratibha Patil", "Sonia Gandhi", "Sarojini Naidu"],
+    "answer": "Indira Gandhi"
+},
+{
+    "question": "Which Indian state is famous for its dance form Kathakali?",
+    "options": ["Kerala", "Karnataka", "Tamil Nadu", "Odisha"],
+    "answer": "Kerala"
+},
+{
+    "question": "Which city is known as the 'City of Lakes'?",
+    "options": ["Udaipur", "Bhopal", "Pune", "Chennai"],
+    "answer": "Udaipur"
+},
+{
+    "question": "Who was the first woman Chief Minister in India?",
+    "options": ["Sucheta Kripalani", "Indira Gandhi", "Pratibha Patil", "Jayalalithaa"],
+    "answer": "Sucheta Kripalani"
+},
+{
+    "question": "Which Indian leader is called the 'Iron Man of India'?",
+    "options": ["Sardar Vallabhbhai Patel", "Jawaharlal Nehru", "Subhash Chandra Bose", "Mahatma Gandhi"],
+    "answer": "Sardar Vallabhbhai Patel"
+},
+{
+    "question": "Which river is considered the holiest in India?",
+    "options": ["Ganga", "Yamuna", "Godavari", "Krishna"],
+    "answer": "Ganga"
+},
+{
+    "question": "The Red Fort is located in which city?",
+    "options": ["Delhi", "Agra", "Jaipur", "Lucknow"],
+    "answer": "Delhi"
+},
+{
+    "question": "Who led the Salt March in 1930?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh", "Sardar Patel"],
+    "answer": "Mahatma Gandhi"
+},
+{
+    "question": "Which Indian state is known for the Konark Sun Temple?",
+    "options": ["Odisha", "Rajasthan", "Gujarat", "Tamil Nadu"],
+    "answer": "Odisha"
+},
+{
+    "question": "Who was the last ruler of the Mughal dynasty?",
+    "options": ["Bahadur Shah II", "Aurangzeb", "Shah Jahan", "Akbar II"],
+    "answer": "Bahadur Shah II"
 },
 
 # 10️⃣ GK (General Knowledge)
@@ -1619,7 +2310,237 @@ questions = [
     "options": ["Pacific", "Indian", "Arctic", "Atlantic"],
     "answer": "Arctic"
 },
+# 10️⃣ GK (General Knowledge) 6–20
 
+{
+    "question": "Which is the highest mountain in Africa?",
+    "options": ["Mount Kilimanjaro", "Mount Kenya", "Mount Elgon", "Atlas Mountains"],
+    "answer": "Mount Kilimanjaro"
+},
+{
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Venus", "Mercury"],
+    "answer": "Mars"
+},
+{
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+    "answer": "Nitrogen"
+},
+{
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": "Alexander Graham Bell"
+},
+{
+    "question": "Which country is known as the Land of the Midnight Sun?",
+    "options": ["Norway", "Sweden", "Finland", "Iceland"],
+    "answer": "Norway"
+},
+{
+    "question": "Which is the largest desert in the world?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Arabian"],
+    "answer": "Sahara"
+},
+{
+    "question": "Who is the author of 'The Theory of Relativity'?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+    "answer": "Albert Einstein"
+},
+{
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Pancreas", "Liver", "Kidney", "Heart"],
+    "answer": "Pancreas"
+},
+{
+    "question": "Which is the longest river in Asia?",
+    "options": ["Yangtze", "Ganga", "Mekong", "Yellow River"],
+    "answer": "Yangtze"
+},
+{
+    "question": "Which is the largest continent by area?",
+    "options": ["Asia", "Africa", "Europe", "Antarctica"],
+    "answer": "Asia"
+},
+{
+    "question": "Which metal has the highest electrical conductivity?",
+    "options": ["Silver", "Copper", "Gold", "Aluminum"],
+    "answer": "Silver"
+},
+{
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+},
+{
+    "question": "What is the national sport of Japan?",
+    "options": ["Sumo Wrestling", "Karate", "Judo", "Baseball"],
+    "answer": "Sumo Wrestling"
+},
+{
+    "question": "Which is the smallest continent by area?",
+    "options": ["Australia", "Europe", "Antarctica", "South America"],
+    "answer": "Australia"
+},
+{
+    "question": "Which is the deepest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+},
+# 10️⃣ GK (General Knowledge) 21–35
+
+{
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Vincent van Gogh"],
+    "answer": "Leonardo da Vinci"
+},
+{
+    "question": "Which is the largest mammal on Earth?",
+    "options": ["Blue Whale", "Elephant", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+},
+{
+    "question": "Which country hosted the 2020 Summer Olympics?",
+    "options": ["Japan", "China", "Brazil", "UK"],
+    "answer": "Japan"
+},
+{
+    "question": "Which planet is known for its rings?",
+    "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "answer": "Saturn"
+},
+{
+    "question": "Who is known as the Father of Computers?",
+    "options": ["Charles Babbage", "Alan Turing", "Steve Jobs", "Bill Gates"],
+    "answer": "Charles Babbage"
+},
+{
+    "question": "Which is the largest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+},
+{
+    "question": "What is the capital of Canada?",
+    "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+    "answer": "Ottawa"
+},
+{
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Silver", "Iron"],
+    "answer": "Oxygen"
+},
+{
+    "question": "Which is the largest island in the world?",
+    "options": ["Greenland", "Madagascar", "Borneo", "Sumatra"],
+    "answer": "Greenland"
+},
+{
+    "question": "Who discovered penicillin?",
+    "options": ["Alexander Fleming", "Louis Pasteur", "Marie Curie", "Joseph Lister"],
+    "answer": "Alexander Fleming"
+},
+{
+    "question": "Which country is famous for the Eiffel Tower?",
+    "options": ["France", "Italy", "Spain", "Germany"],
+    "answer": "France"
+},
+{
+    "question": "Which is the smallest planet in our solar system?",
+    "options": ["Mercury", "Mars", "Venus", "Pluto"],
+    "answer": "Mercury"
+},
+{
+    "question": "Which continent is known as the Dark Continent?",
+    "options": ["Africa", "Asia", "Europe", "South America"],
+    "answer": "Africa"
+},
+{
+    "question": "Which is the fastest land animal?",
+    "options": ["Cheetah", "Lion", "Tiger", "Leopard"],
+    "answer": "Cheetah"
+},
+{
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "HO2"],
+    "answer": "H2O"
+},
+# 10️⃣ GK (General Knowledge) 36–50
+
+{
+    "question": "Which planet is called the Morning Star or Evening Star?",
+    "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+    "answer": "Venus"
+},
+{
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": ["Jane Austen", "Charles Dickens", "Emily Bronte", "Mark Twain"],
+    "answer": "Jane Austen"
+},
+{
+    "question": "Which country is known as the Land of Fire and Ice?",
+    "options": ["Iceland", "Norway", "Greenland", "Finland"],
+    "answer": "Iceland"
+},
+{
+    "question": "Which is the largest bird in the world?",
+    "options": ["Ostrich", "Eagle", "Albatross", "Emu"],
+    "answer": "Ostrich"
+},
+{
+    "question": "Who proposed the theory of evolution by natural selection?",
+    "options": ["Charles Darwin", "Gregor Mendel", "Isaac Newton", "Albert Einstein"],
+    "answer": "Charles Darwin"
+},
+{
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": ["France", "UK", "Germany", "Italy"],
+    "answer": "France"
+},
+{
+    "question": "Which gas is essential for photosynthesis?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+},
+{
+    "question": "Which country is known for the Great Barrier Reef?",
+    "options": ["Australia", "USA", "South Africa", "Brazil"],
+    "answer": "Australia"
+},
+{
+    "question": "Which city is called the Venice of the East?",
+    "options": ["Udaipur", "Agra", "Kochi", "Jaipur"],
+    "answer": "Udaipur"
+},
+{
+    "question": "Which is the longest river in South America?",
+    "options": ["Amazon", "Parana", "Orinoco", "Magdalena"],
+    "answer": "Amazon"
+},
+{
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+    "answer": "Michelangelo"
+},
+{
+    "question": "Which is the largest country in the world by area?",
+    "options": ["Russia", "Canada", "China", "USA"],
+    "answer": "Russia"
+},
+{
+    "question": "Which is the hottest planet in the solar system?",
+    "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+    "answer": "Venus"
+},
+{
+    "question": "Which organ purifies blood in the human body?",
+    "options": ["Kidneys", "Liver", "Heart", "Lungs"],
+    "answer": "Kidneys"
+},
+{
+    "question": "Who is known as the father of modern physics?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+    "answer": "Albert Einstein"
+},
 # 11️⃣ Technology
 {
     "question": "HTML stands for?",
@@ -1676,4 +2597,5 @@ questions = [
 
 
 ]
+
 
