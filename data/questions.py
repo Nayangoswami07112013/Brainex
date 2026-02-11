@@ -1286,6 +1286,231 @@ questions = [
     "options": ["India", "Iran", "Pakistan", "South Korea"],
     "answer": "India"
 },
+{
+    "question": "Which Indian player is known as the 'King of Kabaddi'?",
+    "options": ["Anup Kumar", "Rakesh Kumar", "Ajay Thakur", "Manjeet Chhillar"],
+    "answer": "Anup Kumar"
+},
+{
+    "question": "How many players are there on the court for one Kabaddi team?",
+    "options": ["5", "7", "8", "9"],
+    "answer": "7"
+},
+{
+    "question": "What is a 'Super Raid' in Kabaddi?",
+    "options": ["A raid scoring 2 or more points", "A raid ending without points", "A defensive move", "A bonus move"],
+    "answer": "A raid scoring 2 or more points"
+},
+{
+    "question": "Which country won the Kabaddi World Cup in 2007?",
+    "options": ["India", "Iran", "Pakistan", "South Korea"],
+    "answer": "India"
+},
+{
+    "question": "Which league is the professional Kabaddi league in India?",
+    "options": ["Pro Kabaddi League", "Indian Kabaddi Championship", "Kabaddi Premier League", "National Kabaddi League"],
+    "answer": "Pro Kabaddi League"
+},
+{
+    "question": "Who is the fastest raider in Pro Kabaddi history?",
+    "options": ["Pardeep Narwal", "Ajay Thakur", "Manjeet Chhillar", "Rakesh Kumar"],
+    "answer": "Pardeep Narwal"
+},
+{
+    "question": "Which position is mainly responsible for defending the raid?",
+    "options": ["Raider", "Catcher", "All-Rounder", "Winger"],
+    "answer": "Catcher"
+},
+{
+    "question": "What is a 'Do-or-Die Raid'?",
+    "options": ["Raid after 2 empty raids by team", "Any raid in final minutes", "A bonus raid", "Raid by captain only"],
+    "answer": "Raid after 2 empty raids by team"
+},
+{
+    "question": "Which move is used to stop the raider from returning?",
+    "options": ["Tackle", "Tag", "Bonus", "Super Raid"],
+    "answer": "Tackle"
+},
+{
+    "question": "Who was the captain of India in the 2019 Kabaddi World Cup?",
+    "options": ["Ajay Thakur", "Pardeep Narwal", "Rakesh Kumar", "Manjeet Chhillar"],
+    "answer": "Ajay Thakur"
+},
+{
+    "question": "Which country is the origin of Kabaddi besides India?",
+    "options": ["Bangladesh", "Iran", "Pakistan", "Nepal"],
+    "answer": "Iran"
+},
+{
+    "question": "What is the maximum time for one raid in Kabaddi?",
+    "options": ["30 seconds", "20 seconds", "25 seconds", "15 seconds"],
+    "answer": "30 seconds"
+},
+{
+    "question": "Which Kabaddi move earns a bonus point?",
+    "options": ["Crossing bonus line with at least one foot in air", "Tagging 2 defenders", "Tackle by raider", "Empty raid"],
+    "answer": "Crossing bonus line with at least one foot in air"
+},
+{
+    "question": "Who is known for the signature 'Dubki' move in Kabaddi?",
+    "options": ["Manjeet Chhillar", "Pardeep Narwal", "Ajay Thakur", "Rakesh Kumar"],
+    "answer": "Manjeet Chhillar"
+},
+{
+    "question": "Which part of the body must touch the ground during a raid for a point?",
+    "options": ["Hand", "Foot", "Any part", "Head"],
+    "answer": "Foot"
+},
+{
+    "question": "Which player is famous for scoring the fastest 10 points in Pro Kabaddi?",
+    "options": ["Pardeep Narwal", "Ajay Thakur", "Manjeet Chhillar", "Rakesh Kumar"],
+    "answer": "Pardeep Narwal"
+},
+{
+    "question": "Which country won the Kabaddi World Cup in 2016?",
+    "options": ["India", "Iran", "Pakistan", "Bangladesh"],
+    "answer": "India"
+},
+{
+    "question": "In Kabaddi, which position usually starts the raid?",
+    "options": ["Raider", "Catcher", "All-Rounder", "Winger"],
+    "answer": "Raider"
+},
+{
+    "question": "Which move is used by defenders to stop the raider while holding him?",
+    "options": ["Chain Tackle", "Bonus", "Super Raid", "Dubki"],
+    "answer": "Chain Tackle"
+},
+{
+    "question": "What is a 'Super Tackle' in Kabaddi?",
+    "options": ["Tackle with 3 or fewer defenders", "A raid earning 2 points", "Any tackle by raider", "A bonus move"],
+    "answer": "Tackle with 3 or fewer defenders"
+},
+{
+    "question": "Who holds the record for most Super 10s in Pro Kabaddi history?",
+    "options": ["Pardeep Narwal", "Ajay Thakur", "Manjeet Chhillar", "Rakesh Kumar"],
+    "answer": "Pardeep Narwal"
+},
+{
+    "question": "Which skill involves quickly ducking under the defenders?",
+    "options": ["Dubki", "Tackle", "Bonus", "Raiding"],
+    "answer": "Dubki"
+},
+{
+    "question": "What is the duration of one Kabaddi match?",
+    "options": ["40 minutes", "60 minutes", "50 minutes", "30 minutes"],
+    "answer": "40 minutes"
+},
+{
+    "question": "Which country hosted the Kabaddi World Cup in 2016?",
+    "options": ["India", "Iran", "Pakistan", "Bangladesh"],
+    "answer": "India"
+},
+{
+    "question": "Who is the top scoring raider in the history of Pro Kabaddi League?",
+    "options": ["Pardeep Narwal", "Ajay Thakur", "Manjeet Chhillar", "Rakesh Kumar"],
+    "answer": "Pardeep Narwal"
+},
+{
+    "question": "Which move allows a raider to touch multiple defenders in one raid?",
+    "options": ["Chain Move", "Bonus", "Super Raid", "Dubki"],
+    "answer": "Super Raid"
+},
+{
+    "question": "What is the primary goal of a raider?",
+    "options": ["Touch defenders and return safely", "Defend the opponent", "Score a bonus", "Stop time"],
+    "answer": "Touch defenders and return safely"
+},
+{
+    "question": "Which league introduced Kabaddi to international TV audiences?",
+    "options": ["Pro Kabaddi League", "Indian Kabaddi Championship", "Kabaddi Premier League", "National Kabaddi League"],
+    "answer": "Pro Kabaddi League"
+},
+{
+    "question": "Which position in Kabaddi is also called 'Winger'?",
+    "options": ["Player on the corner of the court", "Raider", "Catcher", "All-Rounder"],
+    "answer": "Player on the corner of the court"
+},
+{
+    "question": "Which player scored the winning points for India in 2019 Kabaddi World Cup final?",
+    "options": ["Ajay Thakur", "Pardeep Narwal", "Manjeet Chhillar", "Rakesh Kumar"],
+    "answer": "Ajay Thakur"
+},
+{
+    "question": "Which technique is used by a raider to evade defenders quickly?",
+    "options": ["Side Step", "Tackle", "Bonus", "Dubki"],
+    "answer": "Side Step"
+},
+{
+    "question": "Who is called the 'Raider King' in Kabaddi history?",
+    "options": ["Pardeep Narwal", "Ajay Thakur", "Manjeet Chhillar", "Rakesh Kumar"],
+    "answer": "Pardeep Narwal"
+},
+{
+    "question": "What is the maximum number of raiders allowed on the mat simultaneously per team?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "1"
+},
+{
+    "question": "Which position is primarily responsible for defending against raids?",
+    "options": ["Catcher", "Raider", "All-Rounder", "Winger"],
+    "answer": "Catcher"
+},
+{
+    "question": "Which country finished second in the 2019 Kabaddi World Cup?",
+    "options": ["Iran", "Pakistan", "South Korea", "Bangladesh"],
+    "answer": "Iran"
+},
+{
+    "question": "Which move is used to earn a bonus point while raiding?",
+    "options": ["Bonus Line Move", "Tackle", "Dubki", "Super Raid"],
+    "answer": "Bonus Line Move"
+},
+{
+    "question": "Who was the first captain of India in the Pro Kabaddi League?",
+    "options": ["Anup Kumar", "Rakesh Kumar", "Ajay Thakur", "Manjeet Chhillar"],
+    "answer": "Anup Kumar"
+},
+{
+    "question": "Which defensive formation uses all players to stop a single raider?",
+    "options": ["Chain Tackle", "Bonus", "Dubki", "Super Raid"],
+    "answer": "Chain Tackle"
+},
+{
+    "question": "Which Kabaddi league season was first broadcast on television?",
+    "options": ["Season 1 Pro Kabaddi League", "Season 2 Pro Kabaddi League", "Indian Kabaddi Championship", "Kabaddi Premier League"],
+    "answer": "Season 1 Pro Kabaddi League"
+},
+{
+    "question": "Which Indian state is considered the birthplace of Kabaddi?",
+    "options": ["Tamil Nadu", "Maharashtra", "Punjab", "Kerala"],
+    "answer": "Tamil Nadu"
+},
+{
+    "question": "What is the minimum number of defenders required to perform a Super Tackle?",
+    "options": ["3", "4", "2", "5"],
+    "answer": "3"
+},
+{
+    "question": "Which move is often used to surprise the defenders by ducking under them?",
+    "options": ["Dubki", "Bonus", "Side Step", "Super Raid"],
+    "answer": "Dubki"
+},
+{
+    "question": "Which player is known for scoring the most points in Pro Kabaddi League season 8?",
+    "options": ["Pardeep Narwal", "Ajay Thakur", "Manjeet Chhillar", "Rakesh Kumar"],
+    "answer": "Pardeep Narwal"
+},
+{
+    "question": "How many points are awarded for a successful raid touching two defenders?",
+    "options": ["2", "1", "3", "4"],
+    "answer": "2"
+},
+{
+    "question": "Which move is essential for a raider to score while keeping balance?",
+    "options": ["Footwork Technique", "Dubki", "Bonus", "Tackle"],
+    "answer": "Footwork Technique"
+},
 
 # 7️⃣ Math
 {
@@ -1451,3 +1676,4 @@ questions = [
 
 
 ]
+
